@@ -1,0 +1,16 @@
+UCLMO
+_____________________________________________________________________________________________________
+A Universal Large-scale Many-objective Optimization Framework based on Cultural Learning
+
+
+_____________________________________________________________________________________________________
+
+Experimental environment: MATLAB2020b+PlatEMOv3.3
+
+1. Download PlatEMO https://github.com/BIMK/PlatEMO
+
+2. Download the UCLMO compressed package and unzip it to the Algorithm (Multi-objective optimization) module of PlatEMO;
+
+3. Run the "platemo.m" in PlatEMO in Matlab to enter the graphical interface; 
+
+4. Running example: (LSMOP1, M=5, D=500);
