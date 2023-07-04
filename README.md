@@ -2,8 +2,8 @@
 
 
 @article{WANG2023110538,
-title = {A universal large-scale many-objective optimization framework based on cultural learning},
-author = {Xia Wang and Hongwei Ge and Naiqiang Zhang and Yaqing Hou and Liang Sun},
+title = {A universal large-scale many-objective optimization framework based on cultural learning}, \\
+author = {Xia Wang and Hongwei Ge and Naiqiang Zhang and Yaqing Hou and Liang Sun}, \\
 journal = {Applied Soft Computing},
 volume = {145},
 pages = {110538},
